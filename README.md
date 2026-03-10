@@ -1,3 +1,3 @@
 # Infinite-Tic-Tac-Toe
-Your regular tic tac toe but with a twist
-Using HTML, CSS and Javascript
+Your regular tic tac toe on 3x3 board but with a twist;
+Used HTML, CSS and Javascript to develop
